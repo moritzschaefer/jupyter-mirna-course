@@ -1,5 +1,7 @@
-[![Open Intro In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moritzschaefer/jupyter-mirna-course/blob/master/Analyze%20miRNA%20counts.ipynb)
-[![Open Advanced In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moritzschaefer/jupyter-mirna-course/blob/master/Analyze%20miRNA%20families.ipynb)
+Intro: [![Open Intro In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moritzschaefer/jupyter-mirna-course/blob/master/Analyze%20miRNA%20counts.ipynb)
+
+
+Advanced: [![Open Advanced In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moritzschaefer/jupyter-mirna-course/blob/master/Analyze%20miRNA%20families.ipynb)
 
 # Introduction to Jupyter for miRNA analysis
 
