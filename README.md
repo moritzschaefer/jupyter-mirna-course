@@ -1,3 +1,6 @@
+[![Open Intro In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moritzschaefer/jupyter-mirna-course/blob/master/Analyze%20miRNA%20counts.ipynb)
+[![Open Advanced In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moritzschaefer/jupyter-mirna-course/blob/master/Analyze%20miRNA%20families.ipynb)
+
 # Introduction to Jupyter for miRNA analysis
 
 This repository contains IPython Notebooks we use for teaching in the Ciaudo lab. Data sets used in the notebooks are also included.
